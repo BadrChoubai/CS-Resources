@@ -1,6 +1,6 @@
 # MSU Denver Computer Science
 
-Aimed at giving students a useful place to go to for learning resources, this is a compilation of things I personally found to be helpful in my own self-guided learning and would like to share.
+Aimed primarily at students taking CS1030 and CS1050, this should serve as a useful place to go to for learning resources. It is a compilation of things I found to be helpful in my own self-guided learning and would like to share.
 
 ## New To Programming
 
@@ -11,17 +11,24 @@ Aimed at giving students a useful place to go to for learning resources, this is
 ## Python Programming Resources
 
 - [Corey Schafer](https://www.youtube.com/user/schafer5/featured) - Courses for Python and other Python related topics on YouTube.
-- [Programiz - Python](https://www.programiz.com/python-programming)
+- [Python Crash Course - PDF](https://github.com/MrAlex6204/Books/blob/master/python-crash-course.pdf) - If you're unable to afford the book, this is for you. It's the first print which was written for Python 3.5, if you run into issues you can use the link below to track the differences for certain chapters.
+- [Python Crash Course - GitHub Pages](https://github.com/ehmatthes/pcc_2e) - From the author, An online collection of resources that accompany the book, with written walkthroughs, updates and source code.
 
 ## Java Programming Resources
 
 - [Java Programming Tutorial, Derek Banas](https://www.youtube.com/watch?v=n-xAqcBCws4) - This is a two hour long video tutorial that should get you started with the Java programming language.
-- [Programiz - Java](https://www.programiz.com/java-programming)
+- [Java Tutorial for Beginners, Programming with Mosh](https://www.youtube.com/watch?v=eIrMbAQSU34) - Another Java tutorial for beginners
 
-## Apply Your Knowledge - Problem Solving
+## Apply Your Knowledge
 
-- [Exercism.io](https://exercism.io/) - Community backed and open source, Exercism is a great place to learn and get feedback on solving problems. They offer the ability to work on solving problems with or without a mentor and it has the added benefit of being done through a command line tool.
+- [Exercism.io](https://exercism.io/) - Community backed and open source, Exercism is a great place to learn and get feedback on solving problems. They offer the ability to work with or without a mentor and it focuses on test-driven development. As an added bonus, retrieving problems and submitting solutions is done through a command-line interface.
 - [Codingbat](https://codingbat.com/) - A great place to start if you're not used to solving coding challenges, with the ability to do so in both Java and Python.
+- [JetBrains Academy](https://hi.hyperskill.org/) - A fairly new learning platform, JetBrains the creators of popular industry tools has created a project based learning platform with a great *learn by doing* approach, building real-world projects in Java, Python and Kotlin.
+
+### Data Structures and Algorithms
+
+- [HackerRank - Data Structures Tutorials](https://www.youtube.com/playlist?list=PLI1t_8YX-Apv-UiRlnZwqqrRT8D1RhriX)
+- [HackerRank - Algorithms Tutorials](https://www.youtube.com/playlist?list=PLI1t_8YX-ApvMthLj56t1Rf-Buio5Y8KL)
 
 ### The Community
 
