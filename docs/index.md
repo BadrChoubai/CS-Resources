@@ -2,6 +2,14 @@
 
 Aimed primarily at students taking CS1030 and CS1050, this should serve as a useful place to go to for learning resources. It is a compilation of things I found to be helpful in my own self-guided learning and would like to share.
 
+- Contents
+  - [New To Programming](#new-to-programming)
+  - [Python Programming Resources](#python-programming-resources)
+  - [Java Programming Resources](#java-programming-resources)
+  - [Apply Your Knowledge](#apply-your-knowledge)
+  - [Extra](#extras)
+
+
 ## New To Programming
 
 - [The Missing Semester of Your CS Education (MIT)](https://missing.csail.mit.edu/) - Ths course is aimed at teaching students how to use their computers. [Something often overlooked in CS curriculum](https://missing.csail.mit.edu/about/), it gives them a hands-on introduction to tools they will use in a variety of situations such as their command-line environment and version control with Git.
@@ -25,10 +33,20 @@ Aimed primarily at students taking CS1030 and CS1050, this should serve as a use
 - [Codingbat](https://codingbat.com/) - A great place to start if you're not used to solving coding challenges, with the ability to do so in both Java and Python.
 - [JetBrains Academy](https://hi.hyperskill.org/) - A fairly new learning platform, JetBrains the creators of popular industry tools has created a project based learning platform with a great *learn by doing* approach, building real-world projects in Java, Python and Kotlin.
 
+## Extras
+
+### Useful Tools
+
+- [Code Visualizer](http://www.pythontutor.com/visualize.html#mode=edit) - This is a small tool that lets you visualize what your code is doing, Works with Python, Java and C++ code.
+
 ### Data Structures and Algorithms
 
 - [HackerRank - Data Structures Tutorials](https://www.youtube.com/playlist?list=PLI1t_8YX-Apv-UiRlnZwqqrRT8D1RhriX)
 - [HackerRank - Algorithms Tutorials](https://www.youtube.com/playlist?list=PLI1t_8YX-ApvMthLj56t1Rf-Buio5Y8KL)
+
+### Miscellaneous Learning
+
+- [SQL Bolt](https://sqlbolt.com/) - Interactive SQL lessons to learn SQL from your browser without the need to set it up on your own machine.
 
 ### The Community
 
