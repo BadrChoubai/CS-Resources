@@ -31,6 +31,7 @@ Aimed primarily at students taking CS1030 and CS1050, this should serve as a use
 
 - [Exercism.io](https://exercism.io/) - Community backed and open source, Exercism is a great place to learn and get feedback on solving problems. They offer the ability to work with or without a mentor and it focuses on test-driven development. As an added bonus, retrieving problems and submitting solutions is done through a command-line interface.
 - [Codingbat](https://codingbat.com/) - A great place to start if you're not used to solving coding challenges, with the ability to do so in both Java and Python.
+- [Simplified Interview Questions](https://simpleprogrammer.com/programming-interview-questions/)
 - [JetBrains Academy](https://hi.hyperskill.org/) - A fairly new learning platform, JetBrains the creators of popular industry tools has created a project based learning platform with a great *learn by doing* approach, building real-world projects in Java, Python and Kotlin.
 
 ## Extras
