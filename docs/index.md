@@ -52,4 +52,4 @@ Aimed primarily at students taking CS1030 and CS1050, this should serve as a use
 ### The Community
 
 - [Denver Devs](https://www.denverdevs.org/) - A Slack channel dedicated to Denver's tech community. Focused on helping each other find jobs, solve problems, make friends, and much more.
-- MSUD Computer Science Discord Channel (TBA)
+- [MSUD Computer Science Discord Channel](https://discord.gg/kCMAQBgv9S)
