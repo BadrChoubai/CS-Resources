@@ -4,10 +4,6 @@ Aimed at students, this should serve as a place to come to for self-guided learn
 
 > Join the CS Department Discord: [https://discord.gg/kCMAQBgv9S](https://discord.gg/kCMAQBgv9S)
 
-- Contents
-  - [New To Programming](#new-to-programming)
-  - [Community Resources](#community-resources)
-
 ## New To Programming
 
 1. [The Missing Semester of Your CS Education (MIT)](https://missing.csail.mit.edu/) - A series of hands-on introductory video tutorials to tools they will use in a variety of situations as they learn to write code and work on projects in school or as a professional.
