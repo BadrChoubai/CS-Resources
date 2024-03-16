@@ -1,56 +1,43 @@
-Aimed primarily at students, this should serve as a useful place to go to for self-guided learning resources for leaning Computer Science and Software Engineering fundamentals.
+## Summary
+
+Aimed at students, this should serve as a place to come to for self-guided learning resources to learn Computer Science and Software Engineering fundamentals.
+
+> Join the CS Department Discord: [https://discord.gg/kCMAQBgv9S](https://discord.gg/kCMAQBgv9S)
 
 - Contents
   - [New To Programming](#new-to-programming)
-  - [Python Programming Resources](#python-programming-resources)
-  - [Java Programming Resources](#java-programming-resources)
-  - [Apply Your Knowledge](#apply-your-knowledge)
-  - [Extra](#extras)
+  - [Community Resources](#community-resources)
 
 ## New To Programming
 
-- [The Missing Semester of Your CS Education (MIT)](https://missing.csail.mit.edu/) - Ths course is aimed at teaching students how to use their computers. [Something often overlooked in CS curriculum](https://missing.csail.mit.edu/about/), it gives them a hands-on introduction to tools they will use in a variety of situations such as their command-line environment and version control with Git.
-- [Harvard University's CS50](https://www.youtube.com/playlist?list=PLhQjrBD2T381L3iZyDTxRwOBuUt6m1FnW) - Harvard's CS50 Course is a great way to learn the basics of programming, with each class introducing the learner to a different programming language in order to solve problems, starting with Scratch and ending with JavaScript.
-- [Programiz](https://www.programiz.com/) - This website offers beginner-friendly tutorials on a variety of programming languages with examples.
+1. [The Missing Semester of Your CS Education (MIT)](https://missing.csail.mit.edu/) - A series of hands-on introductory video tutorials to tools they will use in a variety of situations as they learn to write code and work on projects in school or as a professional.
+2. Installing Packages from the Command-Line:
+    - MacOS [Homebrew](https://docs.brew.sh/Manpage) - `brew` command
+    - Ubuntu [Advanced Packaging Tool (APT)](https://ubuntu.com/server/docs/package-management) - `apt` command
+3. `$PATH` or `%PATH%` variable [Wikipedia Article](https://en.wikipedia.org/wiki/PATH_(variable))
 
-## Python Programming Resources
+## Learning Platforms
 
-- [Corey Schafer](https://www.youtube.com/user/schafer5/featured) - Courses for Python and other Python related topics on YouTube.
-- [Python Crash Course - PDF](https://github.com/MrAlex6204/Books/blob/master/python-crash-course.pdf) - If you're unable to afford the book, this is for you. It's the first print which was written for Python 3.5, if you run into issues you can use the link below to track the differences for certain chapters.
-- [Python Crash Course - GitHub Pages](https://github.com/ehmatthes/pcc_2e) - From the author, An online collection of resources that accompany the book, with written walkthroughs, updates and source code.
+- [Coursera](https://www.coursera.org/) - Access to online courses and degrees from world-class universities and companies
+- [Exercism](https://exercism.org/) An open-source platform to learn programming
+- [freeCodeCamp.org](https://www.freecodecamp.org/) - Another free and open-source self-guided curriculum 
 
-## Java Programming Resources
-
-- [Java Programming Tutorial, Derek Banas](https://www.youtube.com/watch?v=n-xAqcBCws4) - This is a two hour long video tutorial that should get you started with the Java programming language.
-- [Java Tutorial for Beginners, Programming with Mosh](https://www.youtube.com/watch?v=eIrMbAQSU34) - Another Java tutorial for beginners
-
-## Apply Your Knowledge
-
-- [Exercism.io](https://exercism.io/) - Community backed and open source, Exercism is a great place to learn and get feedback on solving problems. They offer the ability to work with or without a mentor and it focuses on test-driven development. As an added bonus, retrieving problems and submitting solutions is done through a command-line interface.
-- [Codingbat](https://codingbat.com/) - A great place to start if you're not used to solving coding challenges, with the ability to do so in both Java and Python.
-- [Simplified Interview Questions](https://simpleprogrammer.com/programming-interview-questions/)
-
-## Extras
-
-### Useful Tools
-
-- [Code Visualizer](http://www.pythontutor.com/visualize.html#mode=edit) - This is a small tool that lets you visualize what your code is doing, Works with Python, Java and C++ code.
-
-### Data Structures and Algorithms
-
-- [HackerRank - Data Structures Tutorials](https://www.youtube.com/playlist?list=PLI1t_8YX-Apv-UiRlnZwqqrRT8D1RhriX)
-- [HackerRank - Algorithms Tutorials](https://www.youtube.com/playlist?list=PLI1t_8YX-ApvMthLj56t1Rf-Buio5Y8KL)
-
-### Miscellaneous Learning
-
-- [SQL Bolt](https://sqlbolt.com/) - Interactive SQL lessons to learn SQL from your browser without the need to set it up on your own machine.
-
-### Community Resources
-
-The Computer Science Department at MSU Denver has their own Discord Channel:
-- [MSUD Computer Science Discord Channel](https://discord.gg/kCMAQBgv9S)
-
-### Local-First Online Communities
+## Local-First Online Communities
 
 - [Colorado Tech Community](https://coloradotech.community/) - A new space for the massive and amazing community of Rocky Mountain techies.
 - [Denver Devs](https://www.denverdevs.org/) [deprecated] - A Slack channel dedicated to Denver's tech community. Focused on helping each other find jobs, solve problems, make friends, and much more.
+
+---
+
+#### All Links (Alphabetically Ordered)
+
+- [https://docs.brew.sh/Manpage](https://docs.brew.sh/Manpage)
+- [https://coloradotech.community/](https://coloradotech.community/)
+- [https://www.coursera.org/](https://www.coursera.org/)
+- [https://discord.gg/kCMAQBgv9S](https://discord.gg/kCMAQBgv9S)
+- [https://www.denverdevs.org/](https://www.denverdevs.org/)
+- [https://exercism.org/](https://exercism.org/)
+- [https://www.freecodecamp.org/](https://www.freecodecamp.org/)
+- [https://missing.csail.mit.edu/](https://missing.csail.mit.edu/)
+- [https://ubuntu.com/server/docs/package-management](https://ubuntu.com/server/docs/package-management)
+- [https://en.wikipedia.org/wiki/PATH_(variable)](https://en.wikipedia.org/wiki/PATH_(variable))
