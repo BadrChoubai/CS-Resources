@@ -1,6 +1,6 @@
-# MSU Denver Computer Science
+# CS Resources
 
-Aimed primarily at students taking CS1030 and CS1050, this should serve as a useful place to go to for learning resources. It is a compilation of things I found to be helpful in my own self-guided learning and would like to share.
+Aimed primarily at students, this should serve as a useful place to go to for self-guided learning resources for leaning Computer Science and Software Engineering fundamentals.
 
 - Contents
   - [New To Programming](#new-to-programming)
@@ -8,7 +8,6 @@ Aimed primarily at students taking CS1030 and CS1050, this should serve as a use
   - [Java Programming Resources](#java-programming-resources)
   - [Apply Your Knowledge](#apply-your-knowledge)
   - [Extra](#extras)
-
 
 ## New To Programming
 
@@ -32,7 +31,6 @@ Aimed primarily at students taking CS1030 and CS1050, this should serve as a use
 - [Exercism.io](https://exercism.io/) - Community backed and open source, Exercism is a great place to learn and get feedback on solving problems. They offer the ability to work with or without a mentor and it focuses on test-driven development. As an added bonus, retrieving problems and submitting solutions is done through a command-line interface.
 - [Codingbat](https://codingbat.com/) - A great place to start if you're not used to solving coding challenges, with the ability to do so in both Java and Python.
 - [Simplified Interview Questions](https://simpleprogrammer.com/programming-interview-questions/)
-- [JetBrains Academy](https://hi.hyperskill.org/) - A fairly new learning platform, JetBrains the creators of popular industry tools has created a project based learning platform with a great *learn by doing* approach, building real-world projects in Java, Python and Kotlin.
 
 ## Extras
 
@@ -49,7 +47,12 @@ Aimed primarily at students taking CS1030 and CS1050, this should serve as a use
 
 - [SQL Bolt](https://sqlbolt.com/) - Interactive SQL lessons to learn SQL from your browser without the need to set it up on your own machine.
 
-### The Community
+### Community Resources
 
-- [Denver Devs](https://www.denverdevs.org/) - A Slack channel dedicated to Denver's tech community. Focused on helping each other find jobs, solve problems, make friends, and much more.
+The Computer Science Department at MSU Denver has their own Discord Channel:
 - [MSUD Computer Science Discord Channel](https://discord.gg/kCMAQBgv9S)
+
+### Local-First Online Communities
+
+- [Colorado Tech Community](https://coloradotech.community/) - A new space for the massive and amazing community of Rocky Mountain techies.
+- [Denver Devs](https://www.denverdevs.org/) [deprecated] - A Slack channel dedicated to Denver's tech community. Focused on helping each other find jobs, solve problems, make friends, and much more.
