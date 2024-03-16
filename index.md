@@ -1,5 +1,3 @@
-# CS Resources
-
 Aimed primarily at students, this should serve as a useful place to go to for self-guided learning resources for leaning Computer Science and Software Engineering fundamentals.
 
 - Contents
