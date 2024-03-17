@@ -6,7 +6,7 @@ Aimed at students, this should serve as a place to come to for self-guided learn
 
 ## New To Programming
 
-1. [The Missing Semester of Your CS Education (MIT)](https://missing.csail.mit.edu/) - A series of hands-on introductory video tutorials to tools they will use in a variety of situations as they learn to write code and work on projects in school or as a professional.
+1. [The Missing Semester of Your CS Education (MIT)](https://missing.csail.mit.edu/) - A series of hands-on introductory video tutorials to tools they will use in a variety of situations as they learn to write code and work on projects in school or as a professional
 2. Installing Packages from the Command-Line:
     - MacOS [Homebrew](https://docs.brew.sh/Manpage) - `brew` command
     - Ubuntu [Advanced Packaging Tool (APT)](https://ubuntu.com/server/docs/package-management) - `apt` command
@@ -20,8 +20,12 @@ Aimed at students, this should serve as a place to come to for self-guided learn
 
 ## Local-First Online Communities
 
-- [Colorado Tech Community](https://coloradotech.community/) - A new space for the massive and amazing community of Rocky Mountain techies.
-- [Denver Devs](https://www.denverdevs.org/) [deprecated] - A Slack channel dedicated to Denver's tech community. Focused on helping each other find jobs, solve problems, make friends, and much more.
+- [Colorado Tech Community](https://coloradotech.community/) - A new space for the massive and amazing community of Rocky Mountain techies
+- [Denver Devs](https://www.denverdevs.org/) [deprecated] - A Slack channel dedicated to Denver's tech community. Focused on helping each other find jobs, solve problems, make friends, and much more
+
+## Database Programming
+
+- [SQL Bolt](https://sqlbolt.com/) - A series of interactive lessons and exercises designed to help you quickly learn SQL right in your browser
 
 ---
 
