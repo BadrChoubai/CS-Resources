@@ -39,5 +39,6 @@ Aimed at students, this should serve as a place to come to for self-guided learn
 - [https://exercism.org/](https://exercism.org/)
 - [https://www.freecodecamp.org/](https://www.freecodecamp.org/)
 - [https://missing.csail.mit.edu/](https://missing.csail.mit.edu/)
+- [https://sqlbolt.com/](https://sqlbolt.com/)
 - [https://ubuntu.com/server/docs/package-management](https://ubuntu.com/server/docs/package-management)
 - [https://en.wikipedia.org/wiki/PATH_(variable)](https://en.wikipedia.org/wiki/PATH_(variable))
