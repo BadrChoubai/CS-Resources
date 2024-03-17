@@ -4,6 +4,10 @@ Aimed at students, this should serve as a place to come to for self-guided learn
 
 > Join the CS Department Discord: [https://discord.gg/kCMAQBgv9S](https://discord.gg/kCMAQBgv9S)
 
+## Database Programming
+
+- [SQL Bolt](https://sqlbolt.com/) - A series of interactive lessons and exercises designed to help you quickly learn SQL right in your browser
+
 ## New To Programming
 
 1. [The Missing Semester of Your CS Education (MIT)](https://missing.csail.mit.edu/) - A series of hands-on introductory video tutorials to tools they will use in a variety of situations as they learn to write code and work on projects in school or as a professional
@@ -22,11 +26,7 @@ Aimed at students, this should serve as a place to come to for self-guided learn
 
 - [Colorado Tech Community](https://coloradotech.community/) - A new space for the massive and amazing community of Rocky Mountain techies
 - [Denver Devs](https://www.denverdevs.org/) [deprecated] - A Slack channel dedicated to Denver's tech community. Focused on helping each other find jobs, solve problems, make friends, and much more
-
-## Database Programming
-
-- [SQL Bolt](https://sqlbolt.com/) - A series of interactive lessons and exercises designed to help you quickly learn SQL right in your browser
-
+- 
 ---
 
 #### All Links (Alphabetically Ordered)
