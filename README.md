@@ -4,6 +4,10 @@ Aimed at students, this should serve as a place to come to for self-guided learn
 
 > Join the CS Department Discord: [https://discord.gg/kCMAQBgv9S](https://discord.gg/kCMAQBgv9S)
 
+## Beginning Programming
+
+- [Harvard CS50](https://www.edx.org/cs50)
+ 
 ## Database Programming
 
 - [SQL Bolt](https://sqlbolt.com/) - A series of interactive lessons and exercises designed to help you quickly learn SQL right in your browser
@@ -31,13 +35,14 @@ Aimed at students, this should serve as a place to come to for self-guided learn
 
 #### All Links (Alphabetically Ordered)
 
-- [https://docs.brew.sh/Manpage](https://docs.brew.sh/Manpage)
 - [https://coloradotech.community/](https://coloradotech.community/)
-- [https://www.coursera.org/](https://www.coursera.org/)
+- [https://coursera.org/](https://www.coursera.org/)
 - [https://discord.gg/kCMAQBgv9S](https://discord.gg/kCMAQBgv9S)
-- [https://www.denverdevs.org/](https://www.denverdevs.org/)
+- [https://denverdevs.org/](https://www.denverdevs.org/)
+- [https://docs.brew.sh/Manpage](https://docs.brew.sh/Manpage)
+- [https://edx.org/cs50](https://www.edx.org/cs50)
 - [https://exercism.org/](https://exercism.org/)
-- [https://www.freecodecamp.org/](https://www.freecodecamp.org/)
+- [https://freecodecamp.org/](https://www.freecodecamp.org/)
 - [https://missing.csail.mit.edu/](https://missing.csail.mit.edu/)
 - [https://sqlbolt.com/](https://sqlbolt.com/)
 - [https://ubuntu.com/server/docs/package-management](https://ubuntu.com/server/docs/package-management)
