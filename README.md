@@ -47,3 +47,7 @@ Aimed at students, this should serve as a place to come to for self-guided learn
 - [https://sqlbolt.com/](https://sqlbolt.com/)
 - [https://ubuntu.com/server/docs/package-management](https://ubuntu.com/server/docs/package-management)
 - [https://en.wikipedia.org/wiki/PATH_(variable)](https://en.wikipedia.org/wiki/PATH_(variable))
+
+---
+
+This site is open-source, if you'd like to add a resource: [Edit Page]({% github_edit_link %})
