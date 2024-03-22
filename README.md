@@ -30,7 +30,7 @@ Aimed at students, this should serve as a place to come to for self-guided learn
 
 - [Colorado Tech Community](https://coloradotech.community/) - A new space for the massive and amazing community of Rocky Mountain techies
 - [Denver Devs](https://www.denverdevs.org/) [deprecated] - A Slack channel dedicated to Denver's tech community. Focused on helping each other find jobs, solve problems, make friends, and much more
-- 
+
 ---
 
 #### All Links (Alphabetically Ordered)
