@@ -1,6 +1,6 @@
 ## Summary
 
-Aimed at students, this should serve as a place to come to for self-guided learning resources to learn Computer Science and Software Engineering fundamentals.
+Designed for students, this should serve as a resource for self-guided learning in Computer Science and Software Engineering fundamentals.
 
 > Join the CS Department Discord: [https://discord.gg/kCMAQBgv9S](https://discord.gg/kCMAQBgv9S)
 
