@@ -31,23 +31,4 @@ Designed for students, this should serve as a resource for self-guided learning 
 - [Colorado Tech Community](https://coloradotech.community/) - A new space for the massive and amazing community of Rocky Mountain techies
 - [Denver Devs](https://www.denverdevs.org/) [deprecated] - A Slack channel dedicated to Denver's tech community. Focused on helping each other find jobs, solve problems, make friends, and much more
 
----
-
-#### All Links (Alphabetically Ordered)
-
-- [https://coloradotech.community/](https://coloradotech.community/)
-- [https://coursera.org/](https://www.coursera.org/)
-- [https://discord.gg/kCMAQBgv9S](https://discord.gg/kCMAQBgv9S)
-- [https://denverdevs.org/](https://www.denverdevs.org/)
-- [https://docs.brew.sh/Manpage](https://docs.brew.sh/Manpage)
-- [https://edx.org/cs50](https://www.edx.org/cs50)
-- [https://exercism.org/](https://exercism.org/)
-- [https://freecodecamp.org/](https://www.freecodecamp.org/)
-- [https://missing.csail.mit.edu/](https://missing.csail.mit.edu/)
-- [https://sqlbolt.com/](https://sqlbolt.com/)
-- [https://ubuntu.com/server/docs/package-management](https://ubuntu.com/server/docs/package-management)
-- [https://en.wikipedia.org/wiki/PATH_(variable)](https://en.wikipedia.org/wiki/PATH_(variable))
-
----
-
 This site is open-source, if you'd like to add a resource: [Edit Page]({% github_edit_link %})
