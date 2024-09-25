@@ -1,4 +1,4 @@
-# CS Resource
+# CS Resources
 
 This page lists resources that as a student, I've found useful for extra guidance,
 self-paced learning and getting involved in the local technology community.
