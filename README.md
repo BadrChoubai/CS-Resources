@@ -1,6 +1,6 @@
 # CS Resources
 
-A curated list of resources that I've found useful as a Computer Science student. These cover various topics from programming fundamentals to local tech communities.
+A curated list of resources I’ve found valuable as a Computer Science student. This collection covers a range of topics, including programming fundamentals, system design, databases, and opportunities to engage with local tech communities.
 
 ## Getting Started with Programming
 
