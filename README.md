@@ -17,7 +17,7 @@ A curated list of resources that I've found useful as a Computer Science student
    - [The Missing Semester of Your CS Education (MIT)](https://missing.csail.mit.edu) - A course on essential developer tools not typically covered in traditional CS curriculums.
 
 4. **Version Control**
-   - [Git Documentation](https://git-scm)
+   - [Git Documentation](https://git-scm.com/docs) - Official documentation to learn Git, a crucial tool for version control in software development.
    - [Introduction to Git and GitHub](https://www.coursera.org/learn/introduction-git-github) - A Coursera course that provides a comprehensive guide to Git and GitHub, part of the Google IT Automation with Python series.
 
 ## Recommended Books
