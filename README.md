@@ -34,7 +34,7 @@ A curated list of resources that I've found useful as a Computer Science student
 ## Database and SQL Learning
 
 - [SQL Bolt](https://sqlbolt.com/) - Interactive SQL tutorials and exercises.
-- [High Performance SQLite](https://highperformancesqlite.com/) - A guide to optimizing SQLite for performance.
+- [High Performance SQLite](https://highperformancesqlite.com/) - A comprehensive video course on SQL and SQLite.
 
 ## Interactive Coding Platforms
 
