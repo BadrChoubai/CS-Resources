@@ -9,7 +9,6 @@ including programming fundamentals, system design, databases, and opportunities 
 
     - [Harvard CS50](https://www.edx.org/cs50) - A well-known, beginner-friendly course covering computer science
       fundamentals.
-
     - [The Missing Semester of Your CS Education (MIT)](https://missing.csail.mit.edu) - A course on essential developer
       tools not typically covered in traditional CS curriculums.
 
@@ -17,7 +16,6 @@ including programming fundamentals, system design, databases, and opportunities 
 
     - [Git Documentation](https://git-scm.com/docs) - Official documentation to learn Git, a crucial tool for version
       control in software development.
-
     - [Introduction to Git and GitHub](https://www.coursera.org/learn/introduction-git-github) - A Coursera course that
       provides a comprehensive guide to Git and GitHub, part of the Google IT Automation with Python series.
 
@@ -28,10 +26,7 @@ including programming fundamentals, system design, databases, and opportunities 
 4. **Installing Packages**
 
    - MacOS: [Homebrew](https://docs.brew.sh/Manpage) - `brew` command
-
    - Ubuntu: [Advanced Packaging Tool (APT)](https://ubuntu.com/server/docs/package-management) - `apt` command
-
-   - Windows: dunno, look out of one?
 
 
 ## Recommended Books
