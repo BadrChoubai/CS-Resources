@@ -5,78 +5,74 @@ including programming fundamentals, system design, databases, and opportunities 
 
 ## Getting Started with Programming
 
-1. **Understanding System Variables**
-   - `$PATH` or `%PATH%` variable: [Wikipedia Article](<https://en.wikipedia.org/wiki/PATH_(variable)>)
-2. **Installing Packages**
+1. **Introductory CS Courses**
+
+    - [Harvard CS50](https://www.edx.org/cs50) - A well-known, beginner-friendly course covering computer science
+      fundamentals.
+
+    - [The Missing Semester of Your CS Education (MIT)](https://missing.csail.mit.edu) - A course on essential developer
+      tools not typically covered in traditional CS curriculums.
+
+2. **Version Control**
+
+    - [Git Documentation](https://git-scm.com/docs) - Official documentation to learn Git, a crucial tool for version
+      control in software development.
+
+    - [Introduction to Git and GitHub](https://www.coursera.org/learn/introduction-git-github) - A Coursera course that
+      provides a comprehensive guide to Git and GitHub, part of the Google IT Automation with Python series.
+
+3. **Understanding System Variables**
+
+    - `$PATH` or `%PATH%` variable: [Wikipedia Article](<https://en.wikipedia.org/wiki/PATH_(variable)>)
+
+4. **Installing Packages**
 
    - MacOS: [Homebrew](https://docs.brew.sh/Manpage) - `brew` command
+
    - Ubuntu: [Advanced Packaging Tool (APT)](https://ubuntu.com/server/docs/package-management) - `apt` command
 
-3. **Introductory CS Courses**
+   - Windows: dunno, look out of one?
 
-   - [Harvard CS50](https://www.edx.org/cs50) - A well-known, beginner-friendly course covering computer science
-     fundamentals.
-   - [The Missing Semester of Your CS Education (MIT)](https://missing.csail.mit.edu) - A course on essential developer
-     tools not typically covered in traditional CS curriculums.
-
-4. **Version Control**
-   - [Git Documentation](https://git-scm.com/docs) - Official documentation to learn Git, a crucial tool for version
-     control in software development.
-   - [Introduction to Git and GitHub](https://www.coursera.org/learn/introduction-git-github) - A Coursera course that
-     provides a comprehensive guide to Git and GitHub, part of the Google IT Automation with Python series.
 
 ## Recommended Books
 
-- [_Operating Systems: Three Easy Pieces_](https://pages.cs.wisc.edu/~remzi/OSTEP/) by Remzi H. Arpaci-Dusseau and
-  Andrea C. Arpaci-Dusseau
-- [_Designing Data-Intensive
-  Applications_](https://www.oreilly.com/library/view/designing-data-intensive-applications/9781491903063/) by Martin
-  Kleppmann
-- [_Pragmatic Thinking and Learning_](https://pragprog.com/titles/ahptl/pragmatic-thinking-and-learning/) by Andy Hunt
-- [_The Software Engineer's Guidebook_](https://www.engguidebook.com/) by Gergely Orosz
+| Book                                                                                                                                 | Description                                                                                                                                                                                                                                  |
+|--------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| [_Operating Systems: Three Easy Pieces_](https://pages.cs.wisc.edu/~remzi/OSTEP/)                                                    | A comprehensive yet approachable introduction to operating systems fundamentals, covering processes, memory management, file systems, and concurrency. Ideal for students and professionals learning the core concepts of operating systems. |
+| [_Designing Data-Intensive Applications_](https://www.oreilly.com/library/view/designing-data-intensive-applications/9781491903063/) | Explores the architecture of modern data systems, tackling data storage, processing, and retrieval in distributed systems. It’s a deep dive into building scalable, resilient, and maintainable data-centric applications.                   |
+| [_Pragmatic Thinking and Learning_](https://pragprog.com/titles/ahptl/pragmatic-thinking-and-learning/)                              | A guide to improving problem-solving and learning skills, delving into psychology, cognitive biases, and effective thinking techniques. It offers practical advice for developers on how to learn more effectively and adapt to challenges.  |
+| [_The Software Engineer's Guidebook_](https://www.engguidebook.com/)                                                                 | Offers practical advice on navigating a career in software engineering, including communication, team collaboration, and managing complex projects. A valuable resource for career growth and leadership in the tech industry.               |
 
-## Systems Design and Distributed Systems
+## Recommended Podcasts
 
-- [Distributed Systems Lecture Series](https://www.youtube.com/watch?v=UEAMfLPZZhE&list=PLeKd45zvjcDFUEv_ohr_HdUFe97RItdiB) -
-  Lectures by Martin Kleppmann covering key distributed systems concepts.
+| Category                                         | Podcast                                                                                                             | Description                                                                                                                                                                                                                                                                  |
+|--------------------------------------------------|---------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Engineering and DevOps**                       | [Ship It!](https://changelog.com/shipit)                                                                            | "Ship It!" covers building, deploying, and maintaining software at scale, with topics like DevOps, Kubernetes, and continuous delivery. Great for engineers looking to improve their operational expertise and shipping practices.                                           |
+|                                                  | [Google SRE Prodcast](https://sre.google/prodcast/)                                                                 | Discusses Site Reliability Engineering (SRE) with insights from Google's experts on high-availability systems, performance optimization, and infrastructure scaling. Ideal for those interested in production engineering.                                                   |
+| **Programming Languages & Software Development** | [Go Time](https://changelog.com/gotime)                                                                             | "Go Time" is dedicated to the Go programming language, covering Go’s ecosystem, best practices, performance, and new developments. Perfect for Go enthusiasts and developers curious about the language.                                                                     |
+|                                                  | [Software Engineering Daily](https://softwareengineeringdaily.com/category/all-episodes/exclusive-content/Podcast/) | A daily podcast covering software engineering topics from cloud infrastructure to machine learning, featuring in-depth interviews with industry experts. Great for developers looking to stay up-to-date with modern trends.                                                 |
+| **Technology, Systems, and Innovation**          | [Signals and Threads](https://signalsandthreads.com/)                                                               | Hosted by Jane Street’s Ron Minsky, this podcast explores technical challenges in engineering, from clock synchronization to build systems. Ideal for those interested in systems and innovation in high-performance environments.                                           |
+| **Personal Growth & Career Development**         | [Developer Tea](https://developertea.com/)                                                                          | A short podcast focused on helping developers with personal and professional growth. Hosted by Jonathan Cutrell, it provides practical advice for connecting with purpose and excelling at work, perfect for those looking to grow their careers and have a positive impact. |
 
-## Database and SQL Learning
+## Local Tech Communities (Front Range)
 
-- [SQL Bolt](https://sqlbolt.com/) - Interactive SQL tutorials and exercises.
-- [High Performance SQLite](https://highperformancesqlite.com/) - A comprehensive video course on SQL and SQLite.
-
-## Interactive Coding Platforms
-
-- [Exercism](https://exercism.org/) - An open-source platform with coding exercises across multiple languages.
-- [freeCodeCamp](https://www.freecodecamp.org/) - A free platform offering a self-paced curriculum in programming.
-
-## Online Learning Platforms
-
-- [Udemy](https://www.udemy.com/) - A large online platform with courses on programming, web development, data science,
-  and more. It offers both free and paid courses with lifetime access to materials, allowing for self-paced learning.
-  - **Pro Tip**: If you're a Denver resident, access Udemy for free via
-    the [Denver Public Library](https://www.denverlibrary.org/udemy) with a library card.
-- [Khan Academy](https://www.khanacademy.org/) - Great for introductory computing and math courses.
-
-## Local Tech Communities (Denver/Boulder, CO)
-
-1. **General Meetups**
+- **General Meetups**
 
    - [Meet n' Code](https://www.meetup.com/Meet-n-Code/) - A bi-weekly meetup for coding and socializing.
    - [Develop Happy Hour](https://www.meetup.com/develop-happy-hour/) - Monthly networking for tech professionals.
 
-2. **Language-Specific Groups**
+- **Language-Specific Groups**
 
    - [Mile High Gophers](https://www.meetup.com/denver-go-language-user-group/) - Focused on the Go programming
      language.
    - [Boulder Rust Meetup](https://www.meetup.com/boulder-rust-meetup/) - Rust enthusiasts in Boulder.
    - [DenverScript](https://denverscript.com/) - A community around JavaScript and TypeScript in Denver.
 
-3. **Linux and Open Source**
+- **Linux and Open Source**
 
    - [Boulder Linux User Group](https://www.lug.boulder.co.us/) - For those interested in using, administering, or
      developing Free Software for Linux.
 
-4. **Broader Tech Community**
+- **Broader Tech Community**
    - [Colorado Tech Community](https://coloradotech.community/) - A platform for the larger tech community in the Rocky
      Mountains.
