@@ -24,10 +24,10 @@ A curated list of resources I’ve found valuable as a Computer Science student.
 
 | Book | Description |
 | :---- | :---- |
+| [*Pragmatic Thinking and Learning*](https://pragprog.com/titles/ahptl/pragmatic-thinking-and-learning/) | A guide to improving problem-solving and learning skills, delving into psychology, cognitive biases, and effective thinking techniques. It offers practical advice for developers on how to learn more effectively and adapt to challenges. |
+| [*A Mind for Numbers*](https://barbaraoakley.com/books/a-mind-for-numbers/) | Explores techniques for mastering math and science, emphasizing focused and diffuse thinking. Barbara Oakley provides practical strategies for problem-solving and memory retention, blending cognitive science insights with personal anecdotes for accessible learning. |
 | [*Operating Systems: Three Easy Pieces*](https://pages.cs.wisc.edu/~remzi/OSTEP/) | A comprehensive yet approachable introduction to operating systems fundamentals, covering processes, memory management, file systems, and concurrency. Ideal for students and professionals learning the core concepts of operating systems. |
 | [*Designing Data-Intensive Applications*](https://www.oreilly.com/library/view/designing-data-intensive-applications/9781491903063/) | Explores the architecture of modern data systems, tackling data storage, processing, and retrieval in distributed systems. It’s a deep dive into building scalable, resilient, and maintainable data-centric applications. |
-| [*Pragmatic Thinking and Learning*](https://pragprog.com/titles/ahptl/pragmatic-thinking-and-learning/) | A guide to improving problem-solving and learning skills, delving into psychology, cognitive biases, and effective thinking techniques. It offers practical advice for developers on how to learn more effectively and adapt to challenges. |
-| *[A Mind for Numbers](https://barbaraoakley.com/books/a-mind-for-numbers/)* | Explores techniques for mastering math and science, emphasizing focused and diffuse thinking. Barbara Oakley provides practical strategies for problem-solving and memory retention, blending cognitive science insights with personal anecdotes for accessible learning. |
 | [*The Software Engineer's Guidebook*](https://www.engguidebook.com/) | Offers practical advice on navigating a career in software engineering, including communication, team collaboration, and managing complex projects. A valuable resource for career growth and leadership in the tech industry. |
 
 ## Recommended Podcasts
