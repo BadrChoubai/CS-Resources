@@ -1,6 +1,8 @@
 # CS Resources
 
-A curated list of resources I’ve found valuable as a Computer Science student. This collection covers a range of topics, including programming fundamentals, system design, databases, and opportunities to engage with local tech communities.
+A curated list of learning resources covering a range of topics, including programming
+fundamentals, system design, databases, and opportunities to engage with local
+tech communities.
 
 **Sections**:
 
@@ -66,4 +68,4 @@ A curated list of resources I’ve found valuable as a Computer Science student.
 | **Linux and Open Source**    | [Boulder Linux User Group](https://www.lug.boulder.co.us/)                                               | For those interested in using, administering, or developing Free Software for Linux.                                              |
 | **Cybersecurity**            | [Cloud Security Alliance: Denver Chapter](https://www.meetup.com/denver-cloud-security-alliance-meetup/) | CSA is the world’s leading organization dedicated to defining and raising awareness of best practices for secure cloud computing. |
 |                              | [Boulder OWASP Chapter](https://owasp.org/www-chapter-boulder/)                                          | The OWASP Boulder Chapter meetup hosts monthly discussions focused on improving the security of software.                         |
-| **Broader Tech Community**   | [Colorado Tech Community](https://coloradotech.community/)                                               | A platform for the larger tech community in the Rocky Mountains.                                                                  |
+
