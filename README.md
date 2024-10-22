@@ -68,4 +68,3 @@ tech communities.
 | **Linux and Open Source**    | [Boulder Linux User Group](https://www.lug.boulder.co.us/)                                               | For those interested in using, administering, or developing Free Software for Linux.                                              |
 | **Cybersecurity**            | [Cloud Security Alliance: Denver Chapter](https://www.meetup.com/denver-cloud-security-alliance-meetup/) | CSA is the world’s leading organization dedicated to defining and raising awareness of best practices for secure cloud computing. |
 |                              | [Boulder OWASP Chapter](https://owasp.org/www-chapter-boulder/)                                          | The OWASP Boulder Chapter meetup hosts monthly discussions focused on improving the security of software.                         |
-
