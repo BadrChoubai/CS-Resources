@@ -16,21 +16,17 @@ tech communities.
 ## Getting Started with Programming
 
 1. **Introductory CS Courses**
-
    - [Harvard CS50](https://www.edx.org/cs50) \- A well-known, beginner-friendly course covering computer science fundamentals.
    - [The Missing Semester of Your CS Education (MIT)](https://missing.csail.mit.edu) \- A course on essential developer tools not typically covered in traditional CS curriculums.
 
 2. **Version Control**
-
    - [Git Documentation](https://git-scm.com/docs) \- Official documentation to learn Git, a crucial tool for version control in software development.
    - [Introduction to Git and GitHub](https://www.coursera.org/learn/introduction-git-github) \- A Coursera course that provides a comprehensive guide to Git and GitHub, part of the Google IT Automation with Python series.
 
 3. **Understanding System Variables**
-
    - `$PATH` or `%PATH%` variable: [Wikipedia Article](<https://en.wikipedia.org/wiki/PATH_(variable)>)
 
 4. **Installing Packages**
-
    - MacOS: [Homebrew](https://docs.brew.sh/Manpage) \- `brew` command
    - Ubuntu: [Advanced Packaging Tool (APT)](https://ubuntu.com/server/docs/package-management) \- `apt` command
 
@@ -66,5 +62,6 @@ tech communities.
 |                              | [Denver C++ Meetup](https://www.meetup.com/north-denver-metro-c-meetup/)                                 | Focused discussions and lightning talks on C++ and general software engineering.                                                  |
 |                              | [DenverScript](https://denverscript.com/)                                                                | A community around JavaScript and TypeScript in Denver.                                                                           |
 | **Linux and Open Source**    | [Boulder Linux User Group](https://www.lug.boulder.co.us/)                                               | For those interested in using, administering, or developing Free Software for Linux.                                              |
+|                              | [Denver DevOps](https://denverdevops.org/)                                                               | A Denver-based DevOps community focused on automation, open source, and continuous learning, with monthly meetups and workshops.  |
 | **Cybersecurity**            | [Cloud Security Alliance: Denver Chapter](https://www.meetup.com/denver-cloud-security-alliance-meetup/) | CSA is the world’s leading organization dedicated to defining and raising awareness of best practices for secure cloud computing. |
 |                              | [Boulder OWASP Chapter](https://owasp.org/www-chapter-boulder/)                                          | The OWASP Boulder Chapter meetup hosts monthly discussions focused on improving the security of software.                         |
