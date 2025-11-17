@@ -33,6 +33,8 @@ tech communities.
 5. **Learning Your First Programming Language**
    - Exercism.org: [https://exercism.org/](https://exercism.org/) - is an independent, community-funded
      platform for learning to write code in several languages.
+   - Developer Roadmaps: [https://roadmap.sh/](https://roadmap.sh/) - another community-driven resource,
+     these developer roadmaps can help you guide your learning.
 
 ## Recommended Books
 
