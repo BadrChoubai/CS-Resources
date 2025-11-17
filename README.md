@@ -30,6 +30,10 @@ tech communities.
    - MacOS: [Homebrew](https://docs.brew.sh/Manpage) \- `brew` command
    - Ubuntu: [Advanced Packaging Tool (APT)](https://ubuntu.com/server/docs/package-management) \- `apt` command
 
+5. **Learning Your First Programming Language**
+   - Exercism.org: [https://exercism.org/](https://exercism.org/) - is an independent, community-funded
+     platform for learning to write code in several languages.
+
 ## Recommended Books
 
 | Book                                                                                                                                 | Description                                                                                                                                                                                                                                                               |
