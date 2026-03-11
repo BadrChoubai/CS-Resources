@@ -7,9 +7,16 @@ tech communities.
 **Sections**:
 
 - [Getting Started with Programming](#getting-started-with-programming)
+- [On-Campus Workshops](#on-campus-workshops)
 - [Recommended Books](#recommended-books)
 - [Recommended Podcasts](#recommended-podcasts)
 - [Local Tech Meetups (Front Range)](#local-tech-meetups-front-range)
+
+## Roadrunner Connect
+
+As the official student organization supporting the Roadrunner Connect app, RCC offers opportunities for members to participate in app development, lead promotional efforts, organize events like hackathons, and collaborate with campus partners.
+
+[Join the Organization](https://roadrunnerlink.msudenver.edu/organization/rcc)
 
 ---
 
@@ -21,6 +28,7 @@ tech communities.
 
 2. **Version Control**
    - [Git Documentation](https://git-scm.com/docs) \- Official documentation to learn Git, a crucial tool for version control in software development.
+   - [Git Workshop Notes](./git_workshop.md)
    - [Introduction to Git and GitHub](https://www.coursera.org/learn/introduction-git-github) \- A Coursera course that provides a comprehensive guide to Git and GitHub, part of the Google IT Automation with Python series.
 
 3. **Understanding System Variables**
