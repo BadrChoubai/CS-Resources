@@ -45,6 +45,9 @@ RoadrunnerLink](https://roadrunnerlink.msudenver.edu/organization/rcc)
    - Developer Roadmaps: [https://roadmap.sh/](https://roadmap.sh/) - another community-driven resource,
      these developer roadmaps can help you guide your learning.
 
+6. **Building Your First Project**
+   - [Have a Fucking Website](https://www.otherstrangeness.com/2026/03/14/have-a-fucking-website/) \- An article urging students to build and own a personal website as one of their first projects.
+
 ## Recommended Books
 
 | Book                                                                                                                                 | Description                                                                                                                                                                                                                                                               |
