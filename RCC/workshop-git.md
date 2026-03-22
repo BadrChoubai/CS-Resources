@@ -173,3 +173,45 @@ This is the other branch's version.
 - Use `git status` to see which files have conflicts
 - VS Code and most IDEs have built-in conflict resolution tools
 - When in doubt, communicate with your collaborator before resolving
+
+---
+
+### Git Stash
+
+Sometimes, you need to switch to another branch or task, but you have uncommitted changes that you’re not ready to commit yet. Instead of committing or discarding these changes, you can stash them.
+
+```shell
+# Save your uncommitted changes to the stash
+git stash
+
+# View the list of stashed changes
+git stash list
+
+# Apply the last stashed changes to your working directory
+git stash apply
+
+# Apply and remove the stash in one step 
+git stash pop
+```
+
+> **Tip**: Use `git stash save "description"` to label your stashes for clarity.
+
+---
+
+### .gitignore
+
+A `.gitignore` file specifies which files or directories Git should ignore. This is useful for excluding temporary files, build outputs, or sensitive data.
+
+Create a `.gitignore` file in the root of your repository and add the patterns for files you want to ignore:
+
+```shell
+# Ignore log files and node_modules
+*.log
+node_modules/
+
+# Ignore system files
+.DS_Store
+Thumbs.db
+```
+
+> Good practice: Use a `.gitignore` template for your language or project type from [gitignore.io](https://www.toptal.com/developers/gitignore).
