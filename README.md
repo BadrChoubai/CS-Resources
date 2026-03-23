@@ -27,7 +27,7 @@ As the official student organization supporting the Roadrunner Connect app, Road
 
 2. **Version Control**
    - [Git Documentation](https://git-scm.com/docs) - Official documentation to learn Git, a crucial tool for version control in software development.
-   - [Git Workshop Notes](./RCC/workshop-git.md) - Notes taken for a workshop on Git led by students from Roadrunner Connect Club.READ
+   - [Git Workshop Notes](./roadrunner-connect/workshop-git/) - Notes taken for a workshop on Git led by students from Roadrunner Connect Club.
    - [Introduction to Git and GitHub](https://www.coursera.org/learn/introduction-git-github) - A Coursera course that provides a comprehensive guide to Git and GitHub, part of the Google IT Automation with Python series.
 
 3. **Understanding System Variables**

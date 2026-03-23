@@ -1,6 +1,12 @@
 title: "CS Resources"
-default:
+
+defaults:
   - scope:
       path: ""
     values:
       layout: "default"
+
+collections:
+  roadrunner-connect:
+    output: true
+    permalink: /roadrunner-connect/:name/
