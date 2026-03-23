@@ -1,3 +1,8 @@
+---
+title: Git Workshop
+permalink: /roadrunner-connect/workshop-git/
+---
+
 # Git Workshop
 
 Hosted by the Roadrunner Connect Club
