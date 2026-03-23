@@ -190,7 +190,7 @@ git stash list
 # Apply the last stashed changes to your working directory
 git stash apply
 
-# Apply and remove the stash in one step 
+# Apply and remove the stash in one step
 git stash pop
 ```
 

@@ -1,0 +1,6 @@
+title: "CS Resources"
+default:
+  - scope:
+      path: ""
+    values:
+      layout: "default"

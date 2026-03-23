@@ -1,0 +1,23 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>{{ page.title | default: site.title }}</title>
+
+    <link
+      rel="stylesheet"
+      href="https://cdn.jsdelivr.net/npm/@picocss/pico@2/css/pico.red.min.css"
+    />
+  </head>
+  <body>
+    <main class="container" id="content">{{ content }}</main>
+    <footer class="container">
+      <small>
+        Built by
+        <a href="https://github.com/badrchoubai">Badr Choubai</a> &mdash;
+        <a href="https://github.com/badrchoubai/cs-resources">View on GitHub</a>
+      </small>
+    </footer>
+  </body>
+</html>
