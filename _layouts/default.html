@@ -12,11 +12,12 @@
   </head>
   <body>
     <header class="container">
-      {% if page.url != "/" %}
+      {% assign home = "/" | relative_url %}
+      {% if page.url != home %}
       <nav>
         <ul>
           <li>
-            <a href="/" role="button">← Back</a>
+            <a href="{{ home }}" role="button">← Back</a>
           </li>
         </ul>
       </nav>
