@@ -11,21 +11,24 @@
     />
   </head>
   <body>
-<<<<<<< HEAD
     <header class="container">
-      {% assign home = "/" | relative_url %}
-      {% if page.url != home %}
-      <nav>
+      {% if page.url != "/" %}
+      <nav aria-label="breadcrumb">
         <ul>
+          <li><a href="{{ site.baseurl }}/">Home</a></li>
+          {% assign crumbs = page.url | remove_first: "/" | split: "/" %} {% for
+          crumb in crumbs %} {% unless forloop.last %}
           <li>
-            <a href="{{ home }}" role="button">← Back</a>
+            <a href="{{ site.baseurl }}/{{ crumb }}/"
+              >{{ crumb | replace: "-", " " | capitalize }}</a
+            >
           </li>
+          {% endunless %} {% endfor %}
+          <li>{{ page.title | default: page.name }}</li>
         </ul>
       </nav>
       {% endif %}
     </header>
-=======
->>>>>>> parent of da55a96 (add navigation on subpages)
     <main class="container" id="content">{{ content }}</main>
     <footer class="container">
       <small>
