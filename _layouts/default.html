@@ -11,6 +11,17 @@
     />
   </head>
   <body>
+    <header class="container">
+      {% if page.url != "/" %}
+      <nav>
+        <ul>
+          <li>
+            <a href="/" role="button">← Back</a>
+          </li>
+        </ul>
+      </nav>
+      {% endif %}
+    </header>
     <main class="container" id="content">{{ content }}</main>
     <footer class="container">
       <small>
