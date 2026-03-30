@@ -15,7 +15,6 @@ tech communities.
 
 As the official student organization supporting the Roadrunner Connect app, Roadrunner Connect Club offers opportunities for members to participate in app development, lead promotional efforts, organize events like hackathons, and collaborate with campus partners.
 
-
 [Learn More](./roadrunner-connect/) |
 [Join them on RoadrunnerLink](https://roadrunnerlink.msudenver.edu/organization/rcc)
 
@@ -39,11 +38,21 @@ As the official student organization supporting the Roadrunner Connect app, Road
    - MacOS: [Homebrew](https://docs.brew.sh/Manpage) - `brew` command
    - Ubuntu: [Advanced Packaging Tool (APT)](https://ubuntu.com/server/docs/package-management) - `apt` command
 
-5. **Learning Your First Programming Language**
+5. **Free Tools for Students**
+   - [GitHub Student Developer Pack](https://education.github.com/pack) - Free access to
+     developer tools, cloud credits, and services from GitHub and its partners.
+   - [JetBrains Student Pack](https://www.jetbrains.com/academy/student-pack/) - Free access
+     to all JetBrains IDEs (IntelliJ, GoLand, PyCharm, etc.) while you're a student.
+   - [Microsoft Azure for Students](https://azure.microsoft.com/en-us/free/students/) - Free
+     Azure credits and services, no credit card required.
+   - [AWS Educate](https://aws.amazon.com/education/awseducate/) - AWS credits and
+     cloud learning paths for students.
+
+6. **Learning Your First Programming Language**
    - Exercism.org: [https://exercism.org/](https://exercism.org/) - An independent, community-funded platform for learning to write code in several languages.
    - Developer Roadmaps: [https://roadmap.sh/](https://roadmap.sh/) - Community-driven developer roadmaps to help guide your learning.
 
-6. **Building Your First Project**
+7. **Building Your First Project**
    - [Have a Fucking Website](https://www.otherstrangeness.com/2026/03/14/have-a-fucking-website/) - An article urging students to build and own a personal website as one of their first projects.
 
 ---
