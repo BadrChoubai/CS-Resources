@@ -9,18 +9,38 @@
       rel="stylesheet"
       href="https://cdn.jsdelivr.net/npm/@picocss/pico@2/css/pico.red.min.css"
     />
+
+    <style>
+      body {
+        display: flex;
+        flex-direction: column;
+        min-height: 100vh;
+      }
+
+      main {
+        flex: 1;
+      }
+
+      .skip-link {
+        position: absolute;
+        top: -100%;
+        left: 0;
+      }
+
+      .skip-link:focus {
+        top: 0;
+      }
+    </style>
   </head>
   <body>
-    <header class="container">
-      {% if page.url != "/" %}
-            {% include nav.html %}
-      {% endif %}
-    </header>
+    <a class="skip-link" href="#content">Skip to main content</a>
+    <header class="container">{% include nav.html %}</header>
     <main class="container" id="content">{{ content }}</main>
     <footer class="container">
-      {% if page.url != "/" %}
-            {% include nav.html %}
-      {% endif %}
+      <small
+        >Built by <a href="https://www.badrchoubai.dev">Badr Choubai</a>&mdash;
+        for students at Metropolitan State University of Denver</small
+      >
     </footer>
   </body>
 </html>
