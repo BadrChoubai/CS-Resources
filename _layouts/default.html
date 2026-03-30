@@ -13,29 +13,14 @@
   <body>
     <header class="container">
       {% if page.url != "/" %}
-      <nav aria-label="breadcrumb">
-        <ul>
-          <li><a href="{{ site.baseurl }}/">Home</a></li>
-          {% assign crumbs = page.url | remove_first: "/" | split: "/" %} {% for
-          crumb in crumbs %} {% unless forloop.last %} {% assign crumb_url = "/"
-          | append: crumb | append: "/" %} {% assign crumb_page = site.documents
-          | where: "url", crumb_url | first %} 
-          <li>
-            <a href="{{ site.baseurl }}/{{ crumb }}/">{{ crumb_page.title }}</a>
-          </li>
-          {% endunless %} {% endfor %}
-          <li>{{ page.title | default: page.name }}</li>
-        </ul>
-      </nav>
+            {% include nav.html %}
       {% endif %}
     </header>
     <main class="container" id="content">{{ content }}</main>
     <footer class="container">
-      <small>
-        Built by
-        <a href="https://github.com/badrchoubai">Badr Choubai</a> &mdash;
-        <a href="https://github.com/badrchoubai/cs-resources">View on GitHub</a>
-      </small>
+      {% if page.url != "/" %}
+            {% include nav.html %}
+      {% endif %}
     </footer>
   </body>
 </html>
