@@ -95,6 +95,7 @@ As the official student organization supporting the Roadrunner Connect app, Road
 **General Meetups**
 
 - [Meet n' Code](https://www.meetup.com/Meet-n-Code/) — A bi-weekly meetup for coding and socializing.
+- [Denver Code & Coffee](https://www.meetup.com/denver-code-coffee/) — A casual meetup for developers to code and connect over coffee.
 - [Develop Happy Hour](https://www.meetup.com/develop-happy-hour/) — Monthly networking for tech professionals.
 
 **Language-Specific Groups**
