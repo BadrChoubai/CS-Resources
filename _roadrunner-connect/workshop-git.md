@@ -1,5 +1,6 @@
 ---
 title: Git Workshop
+description: "Workshop notes covering Git fundamentals: installation, configuration, core commands, branching, merging, conflict resolution, stashing, and .gitignore usage."
 permalink: /roadrunner-connect/workshop-git/
 ---
 
@@ -32,7 +33,7 @@ brew install git
 sudo apt install git
 ```
 
-**Windows**: Download the installer from [git-scm.com](https://git-scm.com)
+**Windows**: Download the installer from the [official Git website](https://git-scm.com)
 
 Then configure your identity — Git attaches these to every commit you make:
 

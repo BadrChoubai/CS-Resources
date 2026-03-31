@@ -1,5 +1,6 @@
 ---
 title: Roadrunner Connect
+description: "Learn about Roadrunner Connect Club — the student organization at MSU Denver supporting app development, workshops, and campus collaboration."
 permalink: /roadrunner-connect/
 ---
 
