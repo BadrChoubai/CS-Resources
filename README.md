@@ -94,22 +94,22 @@ As the official student organization supporting the Roadrunner Connect app, Road
 
 **General Meetups**
 
-- [Meet n' Code](https://www.meetup.com/Meet-n-Code/) — A bi-weekly meetup for coding and socializing.
+- [Meet n' Code](https://www.meetup.com/Meet-n-Code/) — A bi-weekly meetup where developers of all skill levels gather to work on projects, ask questions, and socialize.
 - [Denver Code & Coffee](https://www.meetup.com/denver-code-coffee/) — A casual meetup for developers to code and connect over coffee.
-- [Develop Happy Hour](https://www.meetup.com/develop-happy-hour/) — Monthly networking for tech professionals.
+- [Develop Happy Hour](https://www.meetup.com/develop-happy-hour/) — A monthly happy hour for tech professionals to network and connect in a relaxed, social setting.
 
 **Language-Specific Groups**
 
-- [Boulder Rust Meetup](https://www.meetup.com/boulder-rust-meetup/) — Rust enthusiasts in Boulder.
+- [Boulder Rust Meetup](https://www.meetup.com/boulder-rust-meetup/) — Monthly talks and discussions for Rust programmers across the Boulder area.
 - [Denver C++ Meetup](https://www.meetup.com/north-denver-metro-c-meetup/) — Focused discussions and lightning talks on C++ and general software engineering.
-- [DenverScript](https://denverscript.com/) — A community around JavaScript and TypeScript in Denver.
+- [DenverScript](https://denverscript.com/) — A community for JavaScript and TypeScript developers, hosting regular talks and events around the JS ecosystem.
 
 **Linux and Open Source**
 
-- [Boulder Linux User Group](https://www.lug.boulder.co.us/) — For those interested in using, administering, or developing Free Software for Linux.
-- [Denver DevOps](https://denverdevops.org/) — A Denver-based DevOps community focused on automation, open source, and continuous learning.
+- [Boulder Linux User Group](https://www.lug.boulder.co.us/) — A community for Linux users, system administrators, and developers interested in Free and Open Source software.
+- [Denver DevOps](https://denverdevops.org/) — A community for DevOps practitioners focused on automation, open source tooling, and continuous learning.
 
 **Cybersecurity**
 
-- [Cloud Security Alliance: Denver Chapter](https://www.meetup.com/denver-cloud-security-alliance-meetup/) — Dedicated to defining and raising awareness of best practices for secure cloud computing.
-- [Boulder OWASP Chapter](https://owasp.org/www-chapter-boulder/) — Monthly discussions focused on improving the security of software.
+- [Cloud Security Alliance: Denver Chapter](https://www.meetup.com/denver-cloud-security-alliance-meetup/) — A local chapter of the global CSA, dedicated to raising awareness and defining best practices for secure cloud computing.
+- [Boulder OWASP Chapter](https://owasp.org/www-chapter-boulder/) — Monthly discussions and presentations on application security topics, part of the global OWASP community working to improve software security.
