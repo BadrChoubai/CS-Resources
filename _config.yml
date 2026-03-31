@@ -1,7 +1,7 @@
 title: "CS Resources"
 description: "Computer science learning resources and workshop notes for students at Metropolitan State University of Denver."
 url: "https://badrchoubai.github.io"
-baseurl: "/CS-Resources"
+baseurl: "/"
 author: "Badr Choubai"
 
 defaults:
