@@ -4,6 +4,10 @@ url: "https://badrchoubai.github.io"
 baseurl: "/"
 author: "Badr Choubai"
 
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
 defaults:
   - scope:
       path: ""
